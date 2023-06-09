@@ -1,1 +1,0 @@
-print("myself Anchal Chaudhary . I'm pursuing B.Sc. I completed my schooling from K.V ,Alwar.My father's name is Mr Anoop Singh Chaudhary.My Mother's name is Mrs Beena Singh Chaudhary and they both are school administrator ") 
