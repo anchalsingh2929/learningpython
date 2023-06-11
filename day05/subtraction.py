@@ -1,0 +1,5 @@
+x=input("enter your digit- ")
+x=int(x)
+y=input("enter your digit-")
+y=int(y)
+print(x-y)
