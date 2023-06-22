@@ -3,17 +3,17 @@ b=int(input("digit --"))
 c=int(input("digit --"))
 """if a>b:
     if a>c:
-      print("a bada h")
+      print("a is large")
     else:
-       print("C bada h")
+       print("C is large")
 else:
    if b>c:
-    print("b  bada h")
+    print("b is large")
    else:
-      print("c bada h")"""
+      print("c is large")"""
 if a>b and a>c:
-  print( a, "bada h")
+  print( a, "large")
 elif b>a and b>c:
-  print(b, "bada hai")
+  print(b, "large")
 else:
-   print(c ,"bada h")
+   print(c ,"large")
