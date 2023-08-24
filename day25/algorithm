@@ -1,0 +1,7 @@
+max=35
+a=78
+max>a
+else
+max=a
+a=input("
+repeat from line 3
