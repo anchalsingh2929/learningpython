@@ -9,8 +9,9 @@ while i<len(a):
   i=i+1
 print(r)
   
-    
-  #blue
+           #this is my laptop 
+  #blue    # " "
+            
  # u
  # b, 
 
