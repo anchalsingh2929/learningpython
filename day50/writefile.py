@@ -1,4 +1,3 @@
-b=open("fruit.txt")
-b.write("fruit.txt","r")
-print(b.write())
+b=open("day50/fruit.txt","a")
+b.write("this file written by \n anchal chaudhary ") 
 b.close()

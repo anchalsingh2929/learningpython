@@ -7,4 +7,5 @@ orange
 avacado
 grapes
 lichi
-bandarThis file contains more contentThis file contains more contentThis file contains more contentfruit.txtfruit.txt
+this file contains fruit name this file written by 
+ anchal chaudhary 
